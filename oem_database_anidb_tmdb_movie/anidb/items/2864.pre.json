@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2864",
+        "tmdb:movie": "73799"
+    },
+    "names": [
+        "Tooi Sekai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

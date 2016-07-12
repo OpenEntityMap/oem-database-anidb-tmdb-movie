@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1255",
+        "tmdb:movie": "73716"
+    },
+    "names": [
+        "Good Morning Call"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

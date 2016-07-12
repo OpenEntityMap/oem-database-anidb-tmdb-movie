@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1871",
+        "tmdb:movie": "55296"
+    },
+    "names": [
+        "Karakuri no Kimi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "3392",
+        "tmdb:movie": "18837"
+    },
+    "names": [
+        "Macross Plus Movie Edition"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Triangle Staff"
+    }
+}

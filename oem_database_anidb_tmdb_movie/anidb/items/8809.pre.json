@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8809",
+        "tmdb:movie": "120475"
+    },
+    "names": [
+        "Dragon Ball: Episode of Bardock"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

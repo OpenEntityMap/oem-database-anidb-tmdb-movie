@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4736",
+        "tmdb:movie": "73788"
+    },
+    "names": [
+        "G-9"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

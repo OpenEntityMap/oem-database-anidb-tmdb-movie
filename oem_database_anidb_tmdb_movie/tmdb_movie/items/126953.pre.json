@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1705",
+        "tmdb:movie": "126953"
+    },
+    "names": [
+        "Space Travelers: The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

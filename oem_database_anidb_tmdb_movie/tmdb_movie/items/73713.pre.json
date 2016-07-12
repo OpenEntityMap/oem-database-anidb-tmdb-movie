@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2777",
+        "tmdb:movie": "73713"
+    },
+    "names": [
+        "Eikyuu Kazoku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

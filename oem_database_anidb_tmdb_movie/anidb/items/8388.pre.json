@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8388",
+        "tmdb:movie": "80079"
+    },
+    "names": [
+        "The Tibetan Dog"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

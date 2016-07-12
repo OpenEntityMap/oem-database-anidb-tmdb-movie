@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7190",
+        "tmdb:movie": "73786"
+    },
+    "names": [
+        "Fumiko no Kokuhaku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

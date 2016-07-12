@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11197",
+        "tmdb:movie": "372765"
+    },
+    "names": [
+        "Gekijouban Selector Destructed Wixoss"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

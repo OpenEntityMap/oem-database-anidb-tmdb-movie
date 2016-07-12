@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2351",
+        "tmdb:movie": "334917"
+    },
+    "names": [
+        "Dead Heat"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

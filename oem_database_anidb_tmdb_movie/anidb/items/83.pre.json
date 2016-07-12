@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "83",
+        "tmdb:movie": "823"
+    },
+    "names": [
+        "Jin-Rou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

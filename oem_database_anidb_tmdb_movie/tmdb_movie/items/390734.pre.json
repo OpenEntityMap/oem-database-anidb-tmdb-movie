@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12054",
+        "tmdb:movie": "390734"
+    },
+    "names": [
+        "Kingsglaive: Final Fantasy XV"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

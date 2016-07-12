@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6766",
+        "tmdb:movie": "60705"
+    },
+    "names": [
+        "Tailenders"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

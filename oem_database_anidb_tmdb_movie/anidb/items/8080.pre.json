@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8080",
+        "tmdb:movie": "85808"
+    },
+    "names": [
+        "Koguma no Koro-chan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

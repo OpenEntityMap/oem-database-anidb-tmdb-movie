@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4502",
+        "tmdb:movie": "47656"
+    },
+    "names": [
+        "Hoshizora Kiseki"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

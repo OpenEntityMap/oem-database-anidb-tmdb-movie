@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3479",
+        "tmdb:movie": "72702"
+    },
+    "names": [
+        "Muramasa"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

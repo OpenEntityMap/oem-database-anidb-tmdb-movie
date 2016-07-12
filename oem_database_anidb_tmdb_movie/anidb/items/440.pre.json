@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "440",
+        "tmdb:movie": "41421"
+    },
+    "names": [
+        "eX-Driver the Movie"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

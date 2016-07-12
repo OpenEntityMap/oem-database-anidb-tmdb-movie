@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "5086",
+        "tmdb:movie": "55880"
+    },
+    "names": [
+        "Kiddy Grade II: Maelstrom"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Gonzo Digimation"
+    }
+}

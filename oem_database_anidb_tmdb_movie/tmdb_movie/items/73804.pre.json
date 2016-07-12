@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4838",
+        "tmdb:movie": "73804"
+    },
+    "names": [
+        "Yumedamaya Kidan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "399",
+        "tmdb:movie": "77192"
+    },
+    "names": [
+        "Gekijouban Gensou Maden Saiyuuki: Requiem - Erabarezaru Mono e no Chinkonka"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Studio Pierrot"
+    }
+}

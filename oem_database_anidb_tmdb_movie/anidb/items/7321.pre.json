@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7321",
+        "tmdb:movie": "74616"
+    },
+    "names": [
+        "Super Street Fighter IV"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

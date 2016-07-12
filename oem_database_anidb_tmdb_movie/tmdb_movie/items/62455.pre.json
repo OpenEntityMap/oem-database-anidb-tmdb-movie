@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4855",
+        "tmdb:movie": "62455"
+    },
+    "names": [
+        "Tori no Uta"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6767",
+        "tmdb:movie": "73783"
+    },
+    "names": [
+        "Byulbyul Iyagi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

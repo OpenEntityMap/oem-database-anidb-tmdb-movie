@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3967",
+        "tmdb:movie": "73712"
+    },
+    "names": [
+        "Cosmos Pink Shock"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

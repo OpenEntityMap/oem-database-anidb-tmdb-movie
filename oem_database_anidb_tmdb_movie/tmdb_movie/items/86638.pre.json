@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3616",
+        "tmdb:movie": "86638"
+    },
+    "names": [
+        "Yamatarou Kaeru"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}
