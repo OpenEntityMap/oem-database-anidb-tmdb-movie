@@ -1,0 +1,19 @@
+language: python
+python:
+- '2.7'
+install:
+- pip install -U setuptools
+script: true
+after_success: python build.py --command="sdist bdist_wheel"
+deploy:
+  provider: releases
+  api_key:
+    secure: QvIPD/JplUAieZ34kT36QhhgfacmeC91pOmnxLNyJ2OLkski5QXN14WHq2SR6IIRXzTyDa1tpnN00x2xM5aO6cRAXWdLXQqHZKGQLEnlrpiWMgEVQ3QmETgwCnKCsVWXTTlBdvvF/frbFR4lwjIbnDvAWy033p49Jo5rayQKCXsHyrp3LFHZK7I1VIA3Q57Mf+1F3NjsEzZRXhGhGDmdFpGLKOpVEU7HPfr2ZE0ba1RPfLNmMBijJvxEHGc+mpsywurvuuLaUw6AGRPtU7AYZAnjcx/98DfJILZ2Z3qhYRJgvqsZHX1hKqh9kSy1+zzYi1JkSv+W5gqIGcf7vAjt17HO9Gk54rkusBn+2G7D8WiFt39TqlRqEqz/bRoSdTlM/+T3hKTyvnBXLqpZrkHQAnd7tPhgtihD+cqRLvrcox8dU6rB/HQ3yLKMItPEWAQ2D7v9tvbxatsgngTWZhEy5w3A/qwFFbyO3mjKJ5zk8VGxvOhmtfJjf/tZozr+lWMMgoi/xZUA40cgM+p6M7Q53eV0kL7U2TBbUdZ2xJX4YqtJp5+IeCKywEWYyL4DZGl3ZqP/71Jo2Z+f2eZXN2aWBKpgboOT7NPG5NrcmZ6gSWxcZUen9YNrSdPshpo0LlNGSOCvIMcAIVQHpGgOpJBDmuJ4bDGhXTktIKiV0H21zWY=
+  skip_cleanup: true
+  file_glob: true
+  file:
+  - "dist/oem-database-anidb-tmdb-movie*"
+  - "dist/oem_database_anidb_tmdb_movie*"
+  on:
+    repo: OpenEntityMap/oem-database-anidb-tmdb-movie
+    tags: true
