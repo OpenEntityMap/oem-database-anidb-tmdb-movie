@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "7508",
+        "tmdb:movie": "372751"
+    },
+    "names": [
+        "Code Geass: Boukoku no Akito"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "4"
+    }
+}
