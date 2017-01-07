@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11265",
+        "tmdb:movie": "374191"
+    },
+    "names": [
+        "Ajin"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

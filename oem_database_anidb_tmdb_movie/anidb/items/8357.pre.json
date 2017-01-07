@@ -1,0 +1,40 @@
+{
+    "identifiers": {
+        "anidb": "8357"
+    },
+    "parts": {
+        "1": {
+            "identifiers": {
+                "tmdb:movie": "357786"
+            },
+            "names": [
+                "Kizumonogatari"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "tmdb:movie": "362584"
+            },
+            "names": [
+                "Kizumonogatari"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        },
+        "3": {
+            "identifiers": {
+                "tmdb:movie": "362585"
+            },
+            "names": [
+                "Kizumonogatari"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        }
+    }
+}

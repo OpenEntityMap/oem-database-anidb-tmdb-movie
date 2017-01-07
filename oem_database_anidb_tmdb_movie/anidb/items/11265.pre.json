@@ -1,0 +1,40 @@
+{
+    "identifiers": {
+        "anidb": "11265"
+    },
+    "parts": {
+        "1": {
+            "identifiers": {
+                "tmdb:movie": "357390"
+            },
+            "names": [
+                "Ajin"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "tmdb:movie": "374191"
+            },
+            "names": [
+                "Ajin"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        },
+        "3": {
+            "identifiers": {
+                "tmdb:movie": "394322"
+            },
+            "names": [
+                "Ajin"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        }
+    }
+}

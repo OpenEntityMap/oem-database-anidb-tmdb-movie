@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10008",
+        "tmdb:movie": "357405"
+    },
+    "names": [
+        "Girls und Panzer Gekijouban"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

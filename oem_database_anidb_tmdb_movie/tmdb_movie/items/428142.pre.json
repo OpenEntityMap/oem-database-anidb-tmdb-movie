@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12519",
+        "tmdb:movie": "428142"
+    },
+    "names": [
+        "Fate/Grand Order: First Order"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

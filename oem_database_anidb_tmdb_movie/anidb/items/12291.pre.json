@@ -1,0 +1,40 @@
+{
+    "identifiers": {
+        "anidb": "12291"
+    },
+    "parts": {
+        "10": {
+            "identifiers": {
+                "tmdb:movie": "428294"
+            },
+            "names": [
+                "Chain Chronicle (2016)"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        },
+        "11": {
+            "identifiers": {
+                "tmdb:movie": "428297"
+            },
+            "names": [
+                "Chain Chronicle (2016)"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        },
+        "9": {
+            "identifiers": {
+                "tmdb:movie": "415282"
+            },
+            "names": [
+                "Chain Chronicle (2016)"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        }
+    }
+}

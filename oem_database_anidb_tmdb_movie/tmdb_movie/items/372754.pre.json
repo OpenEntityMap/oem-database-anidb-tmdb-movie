@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11134",
+        "tmdb:movie": "372754"
+    },
+    "names": [
+        "Doukyuusei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

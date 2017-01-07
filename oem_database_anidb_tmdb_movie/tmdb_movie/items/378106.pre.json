@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "10764",
+        "tmdb:movie": "378106"
+    },
+    "names": [
+        "Digimon Adventure Tri."
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "2"
+    }
+}
