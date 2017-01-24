@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8949",
+        "tmdb:movie": "403039"
+    },
+    "names": [
+        "Kagaku na Yatsura"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

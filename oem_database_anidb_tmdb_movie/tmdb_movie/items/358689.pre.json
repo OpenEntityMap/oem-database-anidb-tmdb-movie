@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7985",
+        "tmdb:movie": "358689"
+    },
+    "names": [
+        "Yuri Seijin Naoko-san"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

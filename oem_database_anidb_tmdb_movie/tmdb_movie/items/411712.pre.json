@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8760",
+        "tmdb:movie": "411712"
+    },
+    "names": [
+        "Sacred Seven: Shirogane no Tsubasa"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

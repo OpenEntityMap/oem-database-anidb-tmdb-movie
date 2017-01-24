@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "12246",
+        "tmdb:movie": "431803"
+    },
+    "names": [
+        "Koutetsujou no Kabaneri Soushuuhen"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "1"
+    }
+}

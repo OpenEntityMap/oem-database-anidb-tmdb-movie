@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "565",
+        "tmdb:movie": "411274"
+    },
+    "names": [
+        "Hand Maid Mai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}
