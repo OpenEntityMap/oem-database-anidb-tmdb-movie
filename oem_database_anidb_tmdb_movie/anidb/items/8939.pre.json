@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "8939",
+        "tmdb:movie": "179883"
+    },
+    "names": [
+        "Eiga Smile Precure! Ehon no Naka wa Minna Chiguhagu!"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

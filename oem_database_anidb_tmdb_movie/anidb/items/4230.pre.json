@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "4230",
+        "tmdb:movie": "139503"
+    },
+    "names": [
+        "Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareruka!!"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}
