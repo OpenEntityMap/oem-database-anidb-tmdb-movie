@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "12129",
+        "tmdb:movie": "403895"
+    },
+    "names": [
+        "Yowamushi Pedal: Spare Bike"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "4"
+    }
+}
