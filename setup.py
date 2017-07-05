@@ -13,7 +13,7 @@ PACKAGE_NAME = 'oem-database-anidb-tmdb-movie'
 def build_config():
     config = {
         'name': PACKAGE_NAME,
-        'version': '1.17.10',
+        'version': '1.17.11',
 
         'author': 'Dean Gardiner',
         'author_email': 'me@dgardiner.net',
