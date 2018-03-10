@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12567",
+        "tmdb:movie": "477776"
+    },
+    "names": [
+        "Gekijou Soushuuhen Code Geass: Hangyaku no Lelouch"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}
