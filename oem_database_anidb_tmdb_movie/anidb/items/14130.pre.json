@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14130",
+        "tmdb:movie": "540294"
+    },
+    "names": [
+        "Yakusoku no Nanaya Matsuri"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

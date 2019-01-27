@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13941",
+        "tmdb:movie": "526429"
+    },
+    "names": [
+        "Gekijouban Soushuuhen Made in Abyss"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}
